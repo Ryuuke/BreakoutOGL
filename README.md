@@ -1,4 +1,4 @@
 # BreakoutOGL
 Breakout game using OpenGL
 
-<img src="screen.png" alt="LeagueOfAndroid app" width="400px"/>
+<img src="Assets/screen.png" alt="BreakoutOGL Screen" width="400px"/>
